@@ -47,8 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 ###
-![Snake animation](https://raw.githubusercontent.com/thexplorer01/thexplorer01/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
 
